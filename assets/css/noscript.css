@@ -1,0 +1,20 @@
+/* Loaded only when JavaScript is unavailable. */
+.language-switcher { display: none; }
+
+span[data-lang-content="zh"][hidden] {
+  display: inline !important;
+}
+
+:not(span)[data-lang-content="zh"][hidden] {
+  display: block !important;
+}
+
+.nav-list span[data-lang-content="zh"]::before,
+.site-name + span[data-lang-content="zh"]::before {
+  content: " / ";
+}
+
+.lede[data-lang-content="zh"],
+.prose[data-lang-content="zh"] {
+  margin-top: 1rem;
+}
