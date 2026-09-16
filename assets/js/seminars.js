@@ -46,10 +46,12 @@
       id: "2026-10-16-junzhe-lyu",
       monthEn: "Oct", monthZh: "10月", day: "16",
       dateEn: "Friday, October 16, 2026", dateZh: "2026年10月16日",
-	titleEn: "Stable envelope 3d mirror symmetr",
+	    titleEn: "Stable envelope 3d mirror symmetry",
+      titleZh: "稳定包络的三维镜像对称",
       speakerEn: "Junzhe Lyu · University of North Carolina at Chapel Hill",
-	speakerZh: "吕俊哲 · 北卡罗来纳大学教堂山分校",
+	    speakerZh: "吕俊哲 · 北卡罗来纳大学教堂山分校",
       abstractEn: "In this talk, I will explain the definition of elliptic stable envelopes and try to convince the audiences why 3d mirror symmetry for elliptic stable envelopes is interesting to study. I will explain how to relate stable envelopes 3d mirror symmetry and Goresky–MacPherson duality. If time permits, I will discuss the proof of 3d mirror symmetry for stable envelopes in the case of affine A bow varieties; this is joint work with Richárd Rimányi.",
+      abstractZh: "在这场报告中，我将解释椭圆稳定包络（elliptic stable envelopes）的定义，并让听众理解为什么椭圆稳定包络的3D镜对称性（3d mirror symmetry）是一个非常值得研究的有趣课题。我将阐述如何将稳定包络的3D镜对称性与 Goresky–MacPherson 对偶性联系起来。如果时间允许，我还会讨论仿射 A 型弓簇（affine A bow varieties）情形下稳定包络3D镜对称性的证明；这是与Richárd Rimányi的合作工作。",
       homepage: true
     },
     {
