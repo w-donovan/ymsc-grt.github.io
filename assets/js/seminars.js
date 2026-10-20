@@ -52,7 +52,7 @@
     {
       id: "2026-10-23-chunyu-bai",
       year: 2026, month: 10, day: 23,
-      titleEn: "Derived skein module",
+      titleEn: "(Unusual time and location: 2-3pm, C548) Derived skein module",
       speakerEn: "Chunyu Bai · University of Edinburgh",
       speakerZh: "白纯雨 · 爱丁堡大学",
       abstractEn: "Skein modules are central to the study of quantum topology. It's important to study derived version of it which will contain more interesting informations. In this talk we study an working axiomatic model for derived skein modules.  After explaining motivations, we compute derived skein modules for the groups SL_2 and GL_1. Then we give some computable theorems, and finiteness theorem."
