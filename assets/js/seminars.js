@@ -60,8 +60,10 @@
     {
       id: "2026-10-30-yukinobu-toda",
       year: 2026, month: 10, day: 30,
+      titleEn: "The Dolbeault geometric Langlands-type conjecture for smooth surfaces",
       speakerEn: "Yukinobu Toda · Kavli IPMU",
-      speakerZh: "Yukinobu Toda · Kavli IPMU"
+      speakerZh: "Yukinobu Toda · Kavli IPMU",
+      abstractEn: "In this talk, I will discuss work in progress on a Dolbeault geometric Langlands-type conjecture for one-dimensional coherent sheaves on smooth surfaces with nef anticanonical divisors, equipped with Bridgeland stability conditions. I will formulate the conjecture using the notion of limit categories for symmetric stacks on the automorphic side. These categories admit semiorthogonal decompositions into quasi-BPS categories, which categorify BPS invariants of Calabi–Yau threefolds. Our conjecture generalizes the Dolbeault geometric Langlands conjecture proposed in earlier joint work with Tudor Pădurariu and provides a categorical interpretation of the \chi-independence phenomenon for BPS invariants. As a special case, using Li's construction of a maximal Cohen–Macaulay sheaf, I will prove the conjecture for the total space of a sufficiently ample line bundle over a smooth curve, for sheaves with curve class twice that of the zero section. This establishes a twisted analogue of the Dolbeault geometric Langlands correspondence for GL_2 over the entire Hitchin base."
     },
     {
       id: "2026-11-06-alyosha-latyntsev",
